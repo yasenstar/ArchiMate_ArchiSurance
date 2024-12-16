@@ -5,7 +5,7 @@ Get ArchiSurance Case Study version 3.2 from [OpenGroup Library Site.](https://p
 
 Structure of the case studay as below:
 
-<img src="img/ArchiMate_Archisurance.png" alt="mindmap" style="width:500px;"/>
+<img src="img/ArchiMate_Archisurance.png" alt="mindmap" style="width:600px;"/>
 
 You need FreePlane tool to access mindmap file here - [ArchiMate_Archisurance.mm](ArchiMate_Archisurance.mm)
 

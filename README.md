@@ -1,5 +1,5 @@
 # ArchiMate_ArchiSurance
-Updated ArchiSurance Modeling Practice Repository using Archi Tool
+Updated ArchiSurance Modeling Practice Repository using Archi Tool: <img src="img/archi-tool-logo.png" alt="ArchiMateTool" style="width:100px" href="http://www.archimatetool.com">
 
 Get ArchiSurance Case Study version 3.2 from [OpenGroup Library Site.](https://publications.opengroup.org/y231)
 

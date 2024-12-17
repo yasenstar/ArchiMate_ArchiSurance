@@ -7,7 +7,7 @@ Structure of the case studay as below:
 
 <img src="img/ArchiMate_Archisurance.png" alt="mindmap" style="width:600px;"/>
 
-You need FreePlane tool to access mindmap file here - [ArchiMate_Archisurance.mm](ArchiMate_Archisurance.mm)
+You need FreePlane <a href="https://sourceforge.net/projects/freeplane/"><img src="img/freeplane-tool-logo.png" alt="freeplane logo"></a> tool to access mindmap file here - [ArchiMate_Archisurance.mm](ArchiMate_Archisurance.mm)
 
 ---
 

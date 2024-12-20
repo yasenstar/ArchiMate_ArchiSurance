@@ -82,6 +82,9 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <node TEXT="1. Introduction" POSITION="bottom_or_right" ID="ID_1562131704" CREATED="1734355105431" MODIFIED="1734355109587">
+<node TEXT="Lecture 01 Opening and Introduction" ID="ID_266376583" CREATED="1734356652401" MODIFIED="1734356675108">
+<icon BUILTIN="video"/>
+</node>
 <node TEXT="1.1 The ArchiMate and TOGAF Standards" ID="ID_132273787" CREATED="1734355226619" MODIFIED="1734355238467"/>
 <node TEXT="1.2 Background" ID="ID_248732632" CREATED="1734355238639" MODIFIED="1734355242086"/>
 <node TEXT="1.3 Rationalization" ID="ID_1189608158" CREATED="1734355242240" MODIFIED="1734355247576"/>

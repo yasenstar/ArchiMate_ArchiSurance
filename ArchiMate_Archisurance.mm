@@ -1,7 +1,7 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="ArchiMate_Archisurance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1734354826723"><hook NAME="MapStyle" background="#f5f5dcff">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_sepia_template.mm" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_sepia_template.mm" fit_to_viewport="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -9,7 +9,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_1558627382" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#2c2b29" BACKGROUND_COLOR="#eedfcc" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-10.5 pt;" ENDINCLINATION="81.75 pt;19.875 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-10.125 pt;" ENDINCLINATION="81.75 pt;19.875 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="9" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#2e3440" WIDTH="3" DASH="SOLID"/>
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
@@ -85,7 +85,11 @@
 <node TEXT="Lecture 01 Opening and Introduction" ID="ID_266376583" CREATED="1734356652401" MODIFIED="1734356675108">
 <icon BUILTIN="video"/>
 </node>
-<node TEXT="1.1 The ArchiMate and TOGAF Standards" ID="ID_132273787" CREATED="1734355226619" MODIFIED="1734355238467"/>
+<node TEXT="1.1 The ArchiMate and TOGAF Standards" ID="ID_132273787" CREATED="1734355226619" MODIFIED="1734355238467">
+<node TEXT="The OpenGroup" ID="ID_699094964" CREATED="1734747137674" MODIFIED="1734747147141" LINK="https://www.opengroup.org/"/>
+<node TEXT="TOGAF, version 10" ID="ID_1155697080" CREATED="1734747148142" MODIFIED="1734747194926" LINK="https://www.opengroup.org/togaf"/>
+<node TEXT="ArchiMate 3.2" ID="ID_222025945" CREATED="1734747209059" MODIFIED="1734747227170" LINK="https://publications.opengroup.org/c226?_gl=1*817203*_ga*MTEyNjcyODEzNi4xNzM0MzUyNzU2*_ga_LTTWTXF7XY*MTczNDc0NzEzNi4yLjEuMTczNDc0NzE2Ny4wLjAuMA..*_ga_R80QG90XKM*MTczNDc0NzEzOC4yLjEuMTczNDc0NzE3MC4wLjAuMA..*_ga_2C9VJRZZ38*MTczNDc0NzEzOS4yLjEuMTczNDc0NzE3MC4wLjAuMA..*_ga_KLT018BLSC*MTczNDc0NzEzOS4yLjEuMTczNDc0NzE3MC4wLjAuMA..*_ga_51ESKVT3R5*MTczNDc0NzEzOS4zLjEuMTczNDc0NzE3MC4wLjAuMA..*_ga_7KXKND8JE1*MTczNDc0NzEzOS4zLjEuMTczNDc0NzE3MC4wLjAuMA..&amp;_ga=2.195283756.1445296239.1734747140-1126728136.1734352756"/>
+</node>
 <node TEXT="1.2 Background" ID="ID_248732632" CREATED="1734355238639" MODIFIED="1734355242086"/>
 <node TEXT="1.3 Rationalization" ID="ID_1189608158" CREATED="1734355242240" MODIFIED="1734355247576"/>
 <node TEXT="1.4 Digital Transformation" ID="ID_671390210" CREATED="1734355247726" MODIFIED="1734355253952"/>

@@ -11,4 +11,6 @@ You need FreePlane <a href="https://sourceforge.net/projects/freeplane/"><img sr
 
 ---
 
+View exported HTML report for ArchiSurance here: [HTML Report](ArchiSurance_HTML_Report/index.html)
+
 Feel free to raise your questions under videos or put here in Discussion Board.

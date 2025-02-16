@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ArchiSurance2025" id="id-d538304f099848a2b7c76d0cb94fd43a" version="5.0.0">
+  <folder name="Strategy" id="id-84f7fd1e533d48c5ac4d2880c8a33c8e" type="strategy"/>
+  <folder name="Business" id="id-ba3512786d5a4cf2814171880bfeafcf" type="business"/>
+  <folder name="Application" id="id-6e1d7d4310824c58aa091c3631b6ea3d" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-120ef00e19e148fd9bf518e1d1e38fbc" type="technology"/>
+  <folder name="Motivation" id="id-60e5658b93484b7ab4f86b760e513ae2" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-9adf465db79243718cb1b08cef54a6bb" type="implementation_migration"/>
+  <folder name="Other" id="id-77b70434a1504e7c9141b843ef68208e" type="other"/>
+  <folder name="Relations" id="id-f33bb3ae51f94dfead8f16a05394626e" type="relations"/>
+  <folder name="Views" id="id-a765be5f35e64ebaaf3302bebe32d5d2" type="diagrams">
+    <folder name="Phase A: Archicture Vision" id="id-7969ae2cc5454e81ba28fd7e4cc3cf54"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-4b45c8fe295a4354958f1f05f8d1a8f1" viewpoint="stakeholder">
+      <child xsi:type="archimate:Note" id="id-c52895111ffa4e3780e1668c6f043123" font="1|Segoe UI|12.0|1|WINDOWS|1|-32|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="144" y="12" width="429" height="41"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-43a9244e9ae54addacd85b285f539ed1" textAlignment="1" borderType="2">
+        <bounds x="480" y="52" width="206" height="49"/>
+        <feature name="labelExpression" value="Last Updated at: $view{property:Last Updated at}&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+      </child>
+      <property key="Last Updated at" value="2025/02/16"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
+    </element>
+  </folder>
+</archimate:model>

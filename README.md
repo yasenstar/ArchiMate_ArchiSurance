@@ -1,4 +1,5 @@
-# ArchiMate_ArchiSurance
+# ArchiMate ArchiSurance Practice (Edition 2025)
+
 Updated ArchiSurance Modeling Practice Repository using Archi Tool: <a href="http://www.archimatetool.com"><img src="img/archi-tool-logo.png" alt="ArchiMateTool" style="width:150px"></a>
 
 Get ArchiSurance Case Study version 3.2 from [OpenGroup Library Site.](https://publications.opengroup.org/y231)

@@ -1,6 +1,6 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="ArchiMate_Archisurance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1734354826723"><hook NAME="MapStyle" background="#f5f5dcff">
+<node TEXT="ArchiMate_Archisurance" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1734354826723"><hook NAME="MapStyle" background="#f5f5dcff" zoom="1.3310001">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_sepia_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -9,7 +9,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_1558627382" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#2c2b29" BACKGROUND_COLOR="#eedfcc" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-9 pt;" ENDINCLINATION="81.75 pt;19.875 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-8.625 pt;" ENDINCLINATION="81.75 pt;19.875 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="9" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#2e3440" WIDTH="3" DASH="SOLID"/>
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
@@ -111,7 +111,7 @@
 </node>
 </node>
 <node TEXT="3. Phase B: Business Architecture" POSITION="bottom_or_right" ID="ID_1104497762" CREATED="1734355116925" MODIFIED="1734355125117">
-<node TEXT="3.1 Organization Structure" FOLDED="true" ID="ID_1329494650" CREATED="1734355266589" MODIFIED="1734355272863">
+<node TEXT="3.1 Organization Structure" ID="ID_1329494650" CREATED="1734355266589" MODIFIED="1734355272863">
 <node TEXT="Figure 9: Organization View" ID="ID_947690422" CREATED="1739626409331" MODIFIED="1739626414951"/>
 <node TEXT="Figure 10: Organization Decomposition (Nested)" ID="ID_590009285" CREATED="1739626415109" MODIFIED="1739626427540"/>
 </node>
@@ -138,7 +138,7 @@
 <node TEXT="3.8 Gap Analysis" FOLDED="true" ID="ID_1676240971" CREATED="1734355326827" MODIFIED="1734355331387">
 <node TEXT="Figure 19: Capability Gap Analysis" ID="ID_1276544628" CREATED="1739626667267" MODIFIED="1739626676656"/>
 </node>
-<node TEXT="3.9 Capability Realization" FOLDED="true" ID="ID_593508486" CREATED="1734355331560" MODIFIED="1734355340281">
+<node TEXT="3.9 Capability Realization" ID="ID_593508486" CREATED="1734355331560" MODIFIED="1734355340281">
 <node TEXT="Figure 20: Resource Map View (Target)" ID="ID_1719954894" CREATED="1739626682922" MODIFIED="1739626690590"/>
 <node TEXT="Figure 21: Resource Realization Vew (Target)" ID="ID_1637083893" CREATED="1739626693843" MODIFIED="1739626703326"/>
 </node>

@@ -110,7 +110,7 @@
 <node TEXT="Figure 8: Solution Concept View" ID="ID_326028715" CREATED="1739626383596" MODIFIED="1739676442646"/>
 </node>
 </node>
-<node TEXT="3. Phase B: Business Architecture" POSITION="bottom_or_right" ID="ID_1104497762" CREATED="1734355116925" MODIFIED="1734355125117">
+<node TEXT="3. Phase B: Business Architecture" FOLDED="true" POSITION="bottom_or_right" ID="ID_1104497762" CREATED="1734355116925" MODIFIED="1734355125117">
 <node TEXT="3.1 Organization Structure" FOLDED="true" ID="ID_1329494650" CREATED="1734355266589" MODIFIED="1734355272863">
 <node TEXT="Figure 9: Organization View" ID="ID_947690422" CREATED="1739626409331" MODIFIED="1739626414951"/>
 <node TEXT="Figure 10: Organization Decomposition (Nested)" ID="ID_590009285" CREATED="1739626415109" MODIFIED="1739626427540"/>
@@ -143,7 +143,7 @@
 <node TEXT="Figure 21: Resource Realization Vew (Target)" ID="ID_1637083893" CREATED="1739626693843" MODIFIED="1739626703326"/>
 </node>
 </node>
-<node TEXT="4. Phase C: Information Systems Architectures (Application)" FOLDED="true" POSITION="bottom_or_right" ID="ID_1238677738" CREATED="1734355125260" MODIFIED="1734355137937">
+<node TEXT="4. Phase C: Information Systems Architectures (Application)" POSITION="bottom_or_right" ID="ID_1238677738" CREATED="1734355125260" MODIFIED="1734355137937">
 <node TEXT="4.1 Application Coorperation" ID="ID_896635541" CREATED="1734355341339" MODIFIED="1734355351059">
 <node TEXT="Figure 22: Application Cooperation View (Baseline)" ID="ID_1837836553" CREATED="1739626721443" MODIFIED="1739626738174"/>
 <node TEXT="Figure 23: Application Cooperation View (Target)" ID="ID_1869535047" CREATED="1739626750234" MODIFIED="1739626762956"/>

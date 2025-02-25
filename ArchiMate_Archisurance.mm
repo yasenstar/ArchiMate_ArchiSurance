@@ -143,8 +143,8 @@
 <node TEXT="Figure 21: Resource Realization Vew (Target)" ID="ID_1637083893" CREATED="1739626693843" MODIFIED="1739626703326"/>
 </node>
 </node>
-<node TEXT="4. Phase C: Information Systems Architectures (Application)" FOLDED="true" POSITION="bottom_or_right" ID="ID_1238677738" CREATED="1734355125260" MODIFIED="1734355137937">
-<node TEXT="4.1 Application Coorperation" FOLDED="true" ID="ID_896635541" CREATED="1734355341339" MODIFIED="1734355351059">
+<node TEXT="4. Phase C: Information Systems Architectures (Application)" POSITION="bottom_or_right" ID="ID_1238677738" CREATED="1734355125260" MODIFIED="1734355137937">
+<node TEXT="4.1 Application Coorperation" ID="ID_896635541" CREATED="1734355341339" MODIFIED="1734355351059">
 <node TEXT="Figure 22: Application Cooperation View (Baseline)" ID="ID_1837836553" CREATED="1739626721443" MODIFIED="1739626738174"/>
 <node TEXT="Figure 23: Application Cooperation View (Target)" ID="ID_1869535047" CREATED="1739626750234" MODIFIED="1739626762956"/>
 </node>

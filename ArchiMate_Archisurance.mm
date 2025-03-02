@@ -162,7 +162,7 @@
 <node TEXT="Figure 27: Information Structure View Showing Main Business Objects" ID="ID_1526584076" CREATED="1739626832194" MODIFIED="1739626851965"/>
 <node TEXT="Figure 28: Data Dissemination Diagram" ID="ID_825603183" CREATED="1739626853466" MODIFIED="1739626867436"/>
 </node>
-<node TEXT="6. Phase D: Technology Architecture" FOLDED="true" POSITION="bottom_or_right" ID="ID_940154546" CREATED="1734355150548" MODIFIED="1734355159389">
+<node TEXT="6. Phase D: Technology Architecture" POSITION="bottom_or_right" ID="ID_940154546" CREATED="1734355150548" MODIFIED="1734355159389">
 <node TEXT="6.1 Infrastructure" FOLDED="true" ID="ID_1998277177" CREATED="1734355375094" MODIFIED="1734355384044">
 <node TEXT="Figure 29: Technology View (Baseline)" ID="ID_740271523" CREATED="1739626896345" MODIFIED="1739626905206"/>
 <node TEXT="Figure 30: Technology View (Target)" ID="ID_1763036866" CREATED="1739626908482" MODIFIED="1740886821722"/>
@@ -174,7 +174,7 @@
 </node>
 </node>
 <node TEXT="7. Phase E &amp; F: Opportunities &amp; Solutions and Migration Planning" POSITION="bottom_or_right" ID="ID_1444568500" CREATED="1734355165418" MODIFIED="1734355183097">
-<node TEXT="Figure 34; Migration View" ID="ID_700701965" CREATED="1739626978098" MODIFIED="1739626984238"/>
+<node TEXT="Figure 34: Migration View" ID="ID_700701965" CREATED="1739626978098" MODIFIED="1740899469773"/>
 <node TEXT="Figure 35: TOGAF Project Context Diagram, expressed in the ArchiMate Language" ID="ID_463206348" CREATED="1739626987180" MODIFIED="1739627009349"/>
 </node>
 </node>

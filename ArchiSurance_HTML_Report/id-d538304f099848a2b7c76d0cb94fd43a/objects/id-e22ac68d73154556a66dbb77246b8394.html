@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title></title>
+	<title>Legend: In Part of Plateau</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,10 +21,11 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b class="i18n-elementtype-CompositionRelationship"></b>
+               <b>Legend: In Part of Plateau</b>
+
             <!-- If a View with Viewpoint -->
-			   (<span class="i18n-elementtype-CompositionRelationship"></span>)
-			   <a class="glyphicon glyphicon-info-sign" id="hint-CompositionRelationship" target="hint"></a>
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
 		</div>
 
 		<div class="panel-body root-panel-body">
@@ -40,25 +41,15 @@
                     <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
 
                     <!-- Analysis -->
-                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
 
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-							<br>
-							<b class="i18n-relation-source"></b>
-								<a href="../elements/id-d8262c86ed0d4cd1a12a8e16ebfd85cb.html" target="element">
-									PRO-FIT Headquarters
-								</a>
-							<br>
-							<b class="i18n-relation-target"></b>
-								<a href="../elements/id-fcb9b5fe8f674e83ad68084e01d08a62.html" target="element">
-									Shared Service Center
-								</a>
-							<br>
-							<br>
 						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
@@ -83,16 +74,6 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr id="used-in-views-id-2aedec04935e49d6b19eef9a07c2b319">
-																	<td><a href="../views/id-2aedec04935e49d6b19eef9a07c2b319.html" target="view" title="Figure 30: Technology View (Target)"> Figure 30: Technology View (Target) </a></td>
-																	<td><span class="i18n-viewpoint-technology" /></td>
-																</tr><tr id="used-in-views-id-bea0c37e955f43349856ca0012645aef">
-																	<td><a href="../views/id-bea0c37e955f43349856ca0012645aef.html" target="view" title="Figure 33: Technology Architecture: Gap Analysis"> Figure 33: Technology Architecture: Gap Analysis </a></td>
-																	<td><span class="i18n-viewpoint-technology" /></td>
-																</tr><tr id="used-in-views-id-7fd2d62989f94066b615e8d577bbc702">
-																	<td><a href="../views/id-7fd2d62989f94066b615e8d577bbc702.html" target="view" title="Figure 29: Technology View (Baseline)"> Figure 29: Technology View (Baseline) </a></td>
-																	<td><span class="i18n-viewpoint-technology" /></td>
-																</tr>
 							</tbody>
 						</table>
 						<table class="table table-striped table-hover table-condensed" id="model-relations">
@@ -109,6 +90,52 @@
 							</tbody>
 						</table>
 					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+									        <tr>
+									           <td> <a href="../objects/id-63af39f77d7445e3b82d74f13f1e40ae.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-63af39f77d7445e3b82d74f13f1e40ae.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+									        <tr>
+									           <td> <a href="../objects/id-615250f7d31f42de8a05e921b4eaf197.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-615250f7d31f42de8a05e921b4eaf197.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+									        <tr>
+									           <td> <a href="../objects/id-f971457fc1d14b58a6ef898afdc082ed.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-f971457fc1d14b58a6ef898afdc082ed.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+
+								</tbody>
+							</table>
+						</div>
 			  </div>
 			</div>
 		</div>

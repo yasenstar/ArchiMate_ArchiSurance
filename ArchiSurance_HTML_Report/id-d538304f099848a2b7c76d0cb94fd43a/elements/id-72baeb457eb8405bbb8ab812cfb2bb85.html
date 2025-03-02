@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Data Acquisition Gateway</title>
+	<title>IoT Device</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,11 +21,11 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Data Acquisition Gateway</b>
+               <b>IoT Device</b>
 
             <!-- If a View with Viewpoint -->
-			   (<span class="i18n-elementtype-Node"></span>)
-			   <a class="glyphicon glyphicon-info-sign" id="hint-Node" target="hint"></a>
+			   (<span class="i18n-elementtype-Equipment"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Equipment" target="hint"></a>
 		</div>
 
 		<div class="panel-body root-panel-body">
@@ -72,10 +72,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr id="used-in-views-id-2aedec04935e49d6b19eef9a07c2b319">
-																	<td><a href="../views/id-2aedec04935e49d6b19eef9a07c2b319.html" target="view" title="Figure 30: Technology View (Target)"> Figure 30: Technology View (Target) </a></td>
-																	<td><span class="i18n-viewpoint-technology" /></td>
-																</tr><tr id="used-in-views-id-ec27a01efbe341b19b6a5dd3575a626b">
+								<tr id="used-in-views-id-ec27a01efbe341b19b6a5dd3575a626b">
 																	<td><a href="../views/id-ec27a01efbe341b19b6a5dd3575a626b.html" target="view" title="Figure 31: Data Acquisition from IoT Services (Target)"> Figure 31: Data Acquisition from IoT Services (Target) </a></td>
 																	<td><span class="i18n-viewpoint-physical" /></td>
 																</tr>
@@ -93,20 +90,36 @@
 							</thead>
 							<tbody>
 									<tr>
-											<td><a href="../elements/id-fb8a804def21463f995ff50b63e7455a.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
-											<td><a href="../elements/id-1206f0d2ac134c6db9d496c5817051fd.html" target="element"> Home &amp; Away Headquarters</a></td>
-											<td><a href="../elements/id-af4ba080166346c9984164f467085c3f.html" target="element"> Data Acquisition Gateway</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-0d2fb8edca6b4e498c955ba31f942eae.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-30bd6298880443aba642b72985f01edc.html" target="element"> Home &amp; Away LAN</a></td>
-											<td><a href="../elements/id-af4ba080166346c9984164f467085c3f.html" target="element"> Data Acquisition Gateway</a></td>
-										</tr><tr>
 											<td><a href="../elements/id-86d6f4b4329740e2a9c8346b117fc067.html" target="element" title=""></a></td>
 											<td><span class="i18n-elementtype-FlowRelationship" /></td>
 											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
 											<td><a href="../elements/id-af4ba080166346c9984164f467085c3f.html" target="element"> Data Acquisition Gateway</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/id-0ef847293d364f39a6d1196f06706150.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-SpecializationRelationship" /></td>
+											<td><a href="../elements/id-09cdb12103584c089722839cb8a4764a.html" target="element"> Car Black Box</a></td>
+											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-24a007f4491e45029421f86fc1ad79e3.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-SpecializationRelationship" /></td>
+											<td><a href="../elements/id-4423664f4d61463da9eb17ce96661cad.html" target="element"> Fitness Tracker</a></td>
+											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-6813c1f0fbb243349631bf78cd6222e3.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-SpecializationRelationship" /></td>
+											<td><a href="../elements/id-7b454dc70d7442e79adfaa9e5181d583.html" target="element"> Home Alarm System</a></td>
+											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-a7e4e3992fe846488ff63d43b1fa556d.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-SpecializationRelationship" /></td>
+											<td><a href="../elements/id-c9f5982eefad4f93a2378fdfcb9129de.html" target="element"> Smart Thermostat</a></td>
+											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-990f1145a07d4487b4e510e5f3e55635.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-fa7ca1481bba42bd8d95c15b14d1dd36.html" target="element"> External Locations</a></td>
+											<td><a href="../elements/id-72baeb457eb8405bbb8ab812cfb2bb85.html" target="element"> IoT Device</a></td>
 										</tr>
 							</tbody>
 						</table>

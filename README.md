@@ -22,7 +22,7 @@ You need FreePlane <a href="https://sourceforge.net/projects/freeplane/"><img sr
 
 ---
 
-View exported HTML report for ArchiSurance here: [HTML Report](ArchiSurance_HTML_Report/index.html)
+View exported HTML report for ArchiSurance here: [HTML Report](ArchiSurance_HTML_Report/index.html), support me with enrolling the Udemy package course here: [ArchiMate - ArchiSurance 3.2 - Modeling Practice (2025)](https://www.udemy.com/course/archimate-archisurance-modeling-practice-2025/?referralCode=4522D8745A059468F033)
 
 Feel free to raise your questions under videos or put here in Discussion Board.
 

@@ -6,7 +6,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yasenstar/ArchiMate_ArchiSurance)
 ![GitHub forks](https://img.shields.io/github/forks/yasenstar/ArchiMate_ArchiSurance)
-[![license](https://img.shields.io/pypi/l/spyder.svg)](./LICENSE.txt)
+![GitHub License](https://img.shields.io/github/license/yasenstar/ArchiMate_ArchiSurance)
 ![GitHub language count](https://img.shields.io/github/languages/count/yasenstar/ArchiMate_ArchiSurance)
 [![pages-build-deployment](https://github.com/yasenstar/ArchiMate_ArchiSurance/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/ArchiMate_ArchiSurance/actions/workflows/pages/pages-build-deployment)
 
